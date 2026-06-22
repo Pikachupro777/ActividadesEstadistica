@@ -1,0 +1,74 @@
+---
+title: "Actividad No.4: El entorno estadístico R: Ventajas de su uso en la docencia y la investigación"
+author: "Bruno Cuevas Cruz"
+date: "21-06-2026"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Portada
+
+**Institución:** Universidad Autónoma de Quintana Roo (UQROO)
+
+**Asignatura:** Estadística (AFDMD-111)
+
+**Alumno:** Bruno Cuevas Cruz (25-37715)
+
+**Profesor:** Dr. Julio César Ramírez Pacheco
+
+**Fecha:** 21 de junio de 2026
+
+# Resumen del artículo
+
+#### El entorno estadístico R: ventajas de su uso en la docencia y la investigación
+
+El artículo de Marcos Ruiz Soler y Emelina López González presenta el entorno estadístico R como una herramienta de gran utilidad para la docencia y la investigación. Los autores explican que el uso de la estadística en las distintas disciplinas científicas ha aumentado considerablemente y que esto ha impulsado el desarrollo de diversos programas especializados para el análisis de datos. Entre ellos, R destaca por sus características particulares y por las ventajas que ofrece frente a otros paquetes estadísticos tradicionales.
+
+En primer lugar, el artículo describe el origen de R. Este proyecto nació en 1992 en Auckland, Nueva Zelanda, como una iniciativa de Ross Ihaka y Robert Gentleman, quienes buscaban una herramienta flexible para probar ideas estadísticas. Posteriormente, el programa fue distribuido como software libre y comenzó a desarrollarse gracias a la colaboración de numerosos usuarios y especialistas.
+
+Los autores destacan que R es un sistema avanzado para el análisis estadístico y la generación de gráficos. Además, es un software gratuito y de código abierto, lo que permite que estudiantes, docentes e investigadores puedan acceder a él sin costo alguno. También dispone de abundante documentación y de una gran comunidad de usuarios que contribuyen a su mejora continua.
+
+Entre las ventajas más importantes de R se encuentran su alta calidad, su gratuidad, su capacidad para funcionar en distintos sistemas operativos (Windows, Mac y Linux), la posibilidad de programar procedimientos propios y la disponibilidad de cientos de paquetes especializados para diferentes áreas del conocimiento. Asimismo, los autores resaltan la excelente calidad de los gráficos que pueden generarse con este entorno.
+
+En conclusión, los autores consideran que R es una herramienta potente, flexible y accesible que satisface tanto las necesidades docentes como las de investigación. Gracias a sus múltiples ventajas, su crecimiento constante y su amplia comunidad de usuarios, R se ha convertido en una de las principales opciones para el análisis estadístico moderno.
+
+#### Referencia
+
+Ruiz Soler, M., & López González, E. (2008). *El entorno estadístico R: ventajas de su uso en la docencia y la investigación*. Universidad de Málaga.
+
+# Preguntas
+
+**1. ¿En qué año nació R?**
+
+R nació en 1992.
+
+**2. ¿Quiénes fueron los creadores de R?**
+
+Ross Ihaka y Robert Gentleman.
+
+**3. ¿Cuáles son las ventajas de R sobre otros programas estadísticos?**
+
+- Alta calidad.
+- Gratuito.
+- Multiplataforma.
+- Permite programación.
+- Crece continuamente mediante paquetes.
+- Genera gráficos de excelente calidad.
+- Favorece el aprendizaje de conceptos estadísticos.
+
+**4. ¿Qué significa que R es multiplataforma?**
+
+Que puede utilizarse en distintos sistemas operativos como Windows, Mac y Linux.
+
+**5. Mencione dos paquetes de R para estadística básica.**
+
+- BSDA (Basic Statistics and Data Analysis).
+- IPSUR (Introduction to Probability and Statistics Using R).
+
+**6. ¿Con qué comando se generan 1500 valores de media 100 y desviación típica 15?**
+
+```{r}
+rnorm(1500, 100, 15)
