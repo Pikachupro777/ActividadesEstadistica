@@ -1,5 +1,6 @@
 # ActividadesEstadistica
 Mis actividades de estadistica
+(Copia y pega los links para ver la tarea)
 
 Primera tarea: https://pikachupro777.github.io/ActividadesEstadistica/index1.html
 
