@@ -12,3 +12,5 @@ Mis actividades de estadistica
 - Cuarta tarea: https://pikachupro777.github.io/ActividadesEstadistica/index4.html
 
 - Quinta tarea: https://pikachupro777.github.io/ActividadesEstadistica/index5.html
+
+- Sexta tarea: https://pikachupro777.github.io/ActividadesEstadistica/index6.html
